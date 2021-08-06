@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumit0166
+- 👋 Hi, I’m **_Sumit Sakpal_**
 - 👀 I’m interested in Coding, tech and computer programming,
 - 🌱 I’m currently learning Software Designing
 - 💞️ I’m looking to collaborate with It companies
